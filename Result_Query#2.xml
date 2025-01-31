@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:html="http://www.w3.org/TR/REC-html40">
+<Worksheet ss:Name="Table1">
+	<Table>
+		<Column ss:Index="2" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="3" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Row>
+			<Cell><Data ss:Type="String">year</Data></Cell>
+			<Cell><Data ss:Type="String">season</Data></Cell>
+			<Cell><Data ss:Type="String">city</Data></Cell>
+		</Row>
+
+		<Row>
+			<Cell><Data ss:Type="Number">1896</Data></Cell>
+			<Cell><Data ss:Type="String">Summer</Data></Cell>
+			<Cell><Data ss:Type="String">Athina</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">1900</Data></Cell>
+			<Cell><Data ss:Type="String">Summer</Data></Cell>
+			<Cell><Data ss:Type="String">Paris</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">1904</Data></Cell>
+			<Cell><Data ss:Type="String">Summer</Data></Cell>
+			<Cell><Data ss:Type="String">St. Louis</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">1906</Data></Cell>
+			<Cell><Data ss:Type="String">Summer</Data></Cell>
+			<Cell><Data ss:Type="String">Athina</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">1908</Data></Cell>
+			<Cell><Data ss:Type="String">Summer</Data></Cell>
+			<Cell><Data ss:Type="String">London</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">1912</Data></Cell>
+			<Cell><Data ss:Type="String">Summer</Data></Cell>
+			<Cell><Data ss:Type="String">Stockholm</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">1920</Data></Cell>
+			<Cell><Data ss:Type="String">Summer</Data></Cell>
+			<Cell><Data ss:Type="String">Antwerpen</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">1924</Data></Cell>
+			<Cell><Data ss:Type="String">Summer</Data></Cell>
+			<Cell><Data ss:Type="String">Paris</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">1924</Data></Cell>
+			<Cell><Data ss:Type="String">Winter</Data></Cell>
+			<Cell><Data ss:Type="String">Chamonix</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">1928</Data></Cell>
+			<Cell><Data ss:Type="String">Summer</Data></Cell>
+			<Cell><Data ss:Type="String">Amsterdam</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">1928</Data></Cell>
+			<Cell><Data ss:Type="String">Winter</Data></Cell>
+			<Cell><Data ss:Type="String">Sankt Moritz</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">1932</Data></Cell>
+			<Cell><Data ss:Type="String">Summer</Data></Cell>
+			<Cell><Data ss:Type="String">Los Angeles</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">1932</Data></Cell>
+			<Cell><Data ss:Type="String">Winter</Data></Cell>
+			<Cell><Data ss:Type="String">Lake Placid</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">1936</Data></Cell>
+			<Cell><Data ss:Type="String">Summer</Data></Cell>
+			<Cell><Data ss:Type="String">Berlin</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">1936</Data></Cell>
+			<Cell><Data ss:Type="String">Winter</Data></Cell>
+			<Cell><Data ss:Type="String">Garmisch-Partenkirchen</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">1948</Data></Cell>
+			<Cell><Data ss:Type="String">Summer</Data></Cell>
+			<Cell><Data ss:Type="String">London</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">1948</Data></Cell>
+			<Cell><Data ss:Type="String">Winter</Data></Cell>
+			<Cell><Data ss:Type="String">Sankt Moritz</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">1952</Data></Cell>
+			<Cell><Data ss:Type="String">Summer</Data></Cell>
+			<Cell><Data ss:Type="String">Helsinki</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">1952</Data></Cell>
+			<Cell><Data ss:Type="String">Winter</Data></Cell>
+			<Cell><Data ss:Type="String">Oslo</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">1956</Data></Cell>
+			<Cell><Data ss:Type="String">Summer</Data></Cell>
+			<Cell><Data ss:Type="String">Melbourne</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">1956</Data></Cell>
+			<Cell><Data ss:Type="String">Summer</Data></Cell>
+			<Cell><Data ss:Type="String">Stockholm</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">1956</Data></Cell>
+			<Cell><Data ss:Type="String">Winter</Data></Cell>
+			<Cell><Data ss:Type="String">Cortina d'Ampezzo</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">1960</Data></Cell>
+			<Cell><Data ss:Type="String">Summer</Data></Cell>
+			<Cell><Data ss:Type="String">Roma</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">1960</Data></Cell>
+			<Cell><Data ss:Type="String">Winter</Data></Cell>
+			<Cell><Data ss:Type="String">Squaw Valley</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">1964</Data></Cell>
+			<Cell><Data ss:Type="String">Summer</Data></Cell>
+			<Cell><Data ss:Type="String">Tokyo</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">1964</Data></Cell>
+			<Cell><Data ss:Type="String">Winter</Data></Cell>
+			<Cell><Data ss:Type="String">Innsbruck</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">1968</Data></Cell>
+			<Cell><Data ss:Type="String">Summer</Data></Cell>
+			<Cell><Data ss:Type="String">Mexico City</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">1968</Data></Cell>
+			<Cell><Data ss:Type="String">Winter</Data></Cell>
+			<Cell><Data ss:Type="String">Grenoble</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">1972</Data></Cell>
+			<Cell><Data ss:Type="String">Summer</Data></Cell>
+			<Cell><Data ss:Type="String">Munich</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">1972</Data></Cell>
+			<Cell><Data ss:Type="String">Winter</Data></Cell>
+			<Cell><Data ss:Type="String">Sapporo</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">1976</Data></Cell>
+			<Cell><Data ss:Type="String">Summer</Data></Cell>
+			<Cell><Data ss:Type="String">Montreal</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">1976</Data></Cell>
+			<Cell><Data ss:Type="String">Winter</Data></Cell>
+			<Cell><Data ss:Type="String">Innsbruck</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">1980</Data></Cell>
+			<Cell><Data ss:Type="String">Summer</Data></Cell>
+			<Cell><Data ss:Type="String">Moskva</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">1980</Data></Cell>
+			<Cell><Data ss:Type="String">Winter</Data></Cell>
+			<Cell><Data ss:Type="String">Lake Placid</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">1984</Data></Cell>
+			<Cell><Data ss:Type="String">Summer</Data></Cell>
+			<Cell><Data ss:Type="String">Los Angeles</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">1984</Data></Cell>
+			<Cell><Data ss:Type="String">Winter</Data></Cell>
+			<Cell><Data ss:Type="String">Sarajevo</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">1988</Data></Cell>
+			<Cell><Data ss:Type="String">Summer</Data></Cell>
+			<Cell><Data ss:Type="String">Seoul</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">1988</Data></Cell>
+			<Cell><Data ss:Type="String">Winter</Data></Cell>
+			<Cell><Data ss:Type="String">Calgary</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">1992</Data></Cell>
+			<Cell><Data ss:Type="String">Summer</Data></Cell>
+			<Cell><Data ss:Type="String">Barcelona</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">1992</Data></Cell>
+			<Cell><Data ss:Type="String">Winter</Data></Cell>
+			<Cell><Data ss:Type="String">Albertville</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">1994</Data></Cell>
+			<Cell><Data ss:Type="String">Winter</Data></Cell>
+			<Cell><Data ss:Type="String">Lillehammer</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">1996</Data></Cell>
+			<Cell><Data ss:Type="String">Summer</Data></Cell>
+			<Cell><Data ss:Type="String">Atlanta</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">1998</Data></Cell>
+			<Cell><Data ss:Type="String">Winter</Data></Cell>
+			<Cell><Data ss:Type="String">Nagano</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">2000</Data></Cell>
+			<Cell><Data ss:Type="String">Summer</Data></Cell>
+			<Cell><Data ss:Type="String">Sydney</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">2002</Data></Cell>
+			<Cell><Data ss:Type="String">Winter</Data></Cell>
+			<Cell><Data ss:Type="String">Salt Lake City</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">2004</Data></Cell>
+			<Cell><Data ss:Type="String">Summer</Data></Cell>
+			<Cell><Data ss:Type="String">Athina</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">2006</Data></Cell>
+			<Cell><Data ss:Type="String">Winter</Data></Cell>
+			<Cell><Data ss:Type="String">Torino</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">2008</Data></Cell>
+			<Cell><Data ss:Type="String">Summer</Data></Cell>
+			<Cell><Data ss:Type="String">Beijing</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">2010</Data></Cell>
+			<Cell><Data ss:Type="String">Winter</Data></Cell>
+			<Cell><Data ss:Type="String">Vancouver</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">2012</Data></Cell>
+			<Cell><Data ss:Type="String">Summer</Data></Cell>
+			<Cell><Data ss:Type="String">London</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">2014</Data></Cell>
+			<Cell><Data ss:Type="String">Winter</Data></Cell>
+			<Cell><Data ss:Type="String">Sochi</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="Number">2016</Data></Cell>
+			<Cell><Data ss:Type="String">Summer</Data></Cell>
+			<Cell><Data ss:Type="String">Rio de Janeiro</Data></Cell>
+		</Row>	</Table>
+</Worksheet>
+</Workbook>

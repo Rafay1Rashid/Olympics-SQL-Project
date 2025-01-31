@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:html="http://www.w3.org/TR/REC-html40">
+<Worksheet ss:Name="Table1">
+	<Table>
+		<Column ss:Index="1" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="2" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="3" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Row>
+			<Cell><Data ss:Type="String">Name</Data></Cell>
+			<Cell><Data ss:Type="String">region</Data></Cell>
+			<Cell><Data ss:Type="String">NOGM</Data></Cell>
+		</Row>
+
+		<Row>
+			<Cell><Data ss:Type="String">Michael Fred Phelps, II</Data></Cell>
+			<Cell><Data ss:Type="String">USA</Data></Cell>
+			<Cell><Data ss:Type="String">23</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Raymond Clarence "Ray"" Ewry"</Data></Cell>
+			<Cell><Data ss:Type="String">USA</Data></Cell>
+			<Cell><Data ss:Type="String">10</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Larysa Semenivna Latynina (Diriy-)</Data></Cell>
+			<Cell><Data ss:Type="String">Russia</Data></Cell>
+			<Cell><Data ss:Type="String">9</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Frederick Carlton "Carl"" Lewis"</Data></Cell>
+			<Cell><Data ss:Type="String">USA</Data></Cell>
+			<Cell><Data ss:Type="String">9</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Paavo Johannes Nurmi</Data></Cell>
+			<Cell><Data ss:Type="String">Finland</Data></Cell>
+			<Cell><Data ss:Type="String">9</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Mark Andrew Spitz</Data></Cell>
+			<Cell><Data ss:Type="String">USA</Data></Cell>
+			<Cell><Data ss:Type="String">9</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Jennifer Elisabeth "Jenny"" Thompson (-Cumpelik)"</Data></Cell>
+			<Cell><Data ss:Type="String">USA</Data></Cell>
+			<Cell><Data ss:Type="String">8</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Matthew Nicholas "Matt"" Biondi"</Data></Cell>
+			<Cell><Data ss:Type="String">USA</Data></Cell>
+			<Cell><Data ss:Type="String">8</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Ole Einar Bjrndalen</Data></Cell>
+			<Cell><Data ss:Type="String">Norway</Data></Cell>
+			<Cell><Data ss:Type="String">8</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Usain St. Leo Bolt</Data></Cell>
+			<Cell><Data ss:Type="String">Jamaica</Data></Cell>
+			<Cell><Data ss:Type="String">8</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Birgit Fischer-Schmidt</Data></Cell>
+			<Cell><Data ss:Type="String">Germany</Data></Cell>
+			<Cell><Data ss:Type="String">8</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Sawao Kato</Data></Cell>
+			<Cell><Data ss:Type="String">Japan</Data></Cell>
+			<Cell><Data ss:Type="String">8</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Donald Arthur "Don"" Schollander"</Data></Cell>
+			<Cell><Data ss:Type="String">USA</Data></Cell>
+			<Cell><Data ss:Type="String">7</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Borys Anfiyanovych Shakhlin</Data></Cell>
+			<Cell><Data ss:Type="String">Russia</Data></Cell>
+			<Cell><Data ss:Type="String">7</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Nikolay Yefimovich Andrianov</Data></Cell>
+			<Cell><Data ss:Type="String">Russia</Data></Cell>
+			<Cell><Data ss:Type="String">7</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Vra slavsk (-Odloilov)</Data></Cell>
+			<Cell><Data ss:Type="String">Czech Republic</Data></Cell>
+			<Cell><Data ss:Type="String">7</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Viktor Ivanovych Chukarin</Data></Cell>
+			<Cell><Data ss:Type="String">Russia</Data></Cell>
+			<Cell><Data ss:Type="String">7</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Aladr Gerevich (-Gerei)</Data></Cell>
+			<Cell><Data ss:Type="String">Hungary</Data></Cell>
+			<Cell><Data ss:Type="String">7</Data></Cell>
+		</Row>	</Table>
+</Worksheet>
+</Workbook>

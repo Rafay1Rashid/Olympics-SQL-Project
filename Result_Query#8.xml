@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:html="http://www.w3.org/TR/REC-html40">
+<Worksheet ss:Name="Table1">
+	<Table>
+		<Column ss:Index="1" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="2" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Row>
+			<Cell><Data ss:Type="String">Games</Data></Cell>
+			<Cell><Data ss:Type="String">total_sports</Data></Cell>
+		</Row>
+
+		<Row>
+			<Cell><Data ss:Type="String">1896 Summer</Data></Cell>
+			<Cell><Data ss:Type="String">9</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">1900 Summer</Data></Cell>
+			<Cell><Data ss:Type="String">20</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">1904 Summer</Data></Cell>
+			<Cell><Data ss:Type="String">18</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">1906 Summer</Data></Cell>
+			<Cell><Data ss:Type="String">13</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">1908 Summer</Data></Cell>
+			<Cell><Data ss:Type="String">24</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">1912 Summer</Data></Cell>
+			<Cell><Data ss:Type="String">17</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">1920 Summer</Data></Cell>
+			<Cell><Data ss:Type="String">25</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">1924 Summer</Data></Cell>
+			<Cell><Data ss:Type="String">20</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">1924 Winter</Data></Cell>
+			<Cell><Data ss:Type="String">10</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">1928 Summer</Data></Cell>
+			<Cell><Data ss:Type="String">17</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">1928 Winter</Data></Cell>
+			<Cell><Data ss:Type="String">8</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">1932 Summer</Data></Cell>
+			<Cell><Data ss:Type="String">18</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">1932 Winter</Data></Cell>
+			<Cell><Data ss:Type="String">7</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">1936 Summer</Data></Cell>
+			<Cell><Data ss:Type="String">24</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">1936 Winter</Data></Cell>
+			<Cell><Data ss:Type="String">8</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">1948 Summer</Data></Cell>
+			<Cell><Data ss:Type="String">20</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">1948 Winter</Data></Cell>
+			<Cell><Data ss:Type="String">9</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">1952 Summer</Data></Cell>
+			<Cell><Data ss:Type="String">19</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">1952 Winter</Data></Cell>
+			<Cell><Data ss:Type="String">8</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">1956 Summer</Data></Cell>
+			<Cell><Data ss:Type="String">19</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">1956 Winter</Data></Cell>
+			<Cell><Data ss:Type="String">8</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">1960 Summer</Data></Cell>
+			<Cell><Data ss:Type="String">19</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">1960 Winter</Data></Cell>
+			<Cell><Data ss:Type="String">8</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">1964 Summer</Data></Cell>
+			<Cell><Data ss:Type="String">21</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">1964 Winter</Data></Cell>
+			<Cell><Data ss:Type="String">10</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">1968 Summer</Data></Cell>
+			<Cell><Data ss:Type="String">20</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">1968 Winter</Data></Cell>
+			<Cell><Data ss:Type="String">10</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">1972 Summer</Data></Cell>
+			<Cell><Data ss:Type="String">23</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">1972 Winter</Data></Cell>
+			<Cell><Data ss:Type="String">10</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">1976 Summer</Data></Cell>
+			<Cell><Data ss:Type="String">23</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">1976 Winter</Data></Cell>
+			<Cell><Data ss:Type="String">10</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">1980 Summer</Data></Cell>
+			<Cell><Data ss:Type="String">23</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">1980 Winter</Data></Cell>
+			<Cell><Data ss:Type="String">10</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">1984 Summer</Data></Cell>
+			<Cell><Data ss:Type="String">25</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">1984 Winter</Data></Cell>
+			<Cell><Data ss:Type="String">10</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">1988 Summer</Data></Cell>
+			<Cell><Data ss:Type="String">27</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">1988 Winter</Data></Cell>
+			<Cell><Data ss:Type="String">10</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">1992 Summer</Data></Cell>
+			<Cell><Data ss:Type="String">29</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">1992 Winter</Data></Cell>
+			<Cell><Data ss:Type="String">12</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">1994 Winter</Data></Cell>
+			<Cell><Data ss:Type="String">12</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">1996 Summer</Data></Cell>
+			<Cell><Data ss:Type="String">31</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">1998 Winter</Data></Cell>
+			<Cell><Data ss:Type="String">14</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2000 Summer</Data></Cell>
+			<Cell><Data ss:Type="String">34</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2002 Winter</Data></Cell>
+			<Cell><Data ss:Type="String">15</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2004 Summer</Data></Cell>
+			<Cell><Data ss:Type="String">34</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2006 Winter</Data></Cell>
+			<Cell><Data ss:Type="String">15</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2008 Summer</Data></Cell>
+			<Cell><Data ss:Type="String">34</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2010 Winter</Data></Cell>
+			<Cell><Data ss:Type="String">15</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2012 Summer</Data></Cell>
+			<Cell><Data ss:Type="String">32</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2014 Winter</Data></Cell>
+			<Cell><Data ss:Type="String">15</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2016 Summer</Data></Cell>
+			<Cell><Data ss:Type="String">34</Data></Cell>
+		</Row>	</Table>
+</Worksheet>
+</Workbook>

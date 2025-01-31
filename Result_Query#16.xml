@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:html="http://www.w3.org/TR/REC-html40">
+<Worksheet ss:Name="Table1">
+	<Table>
+		<Column ss:Index="1" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="2" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="3" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="4" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Row>
+			<Cell><Data ss:Type="String">Games</Data></Cell>
+			<Cell><Data ss:Type="String">Gold_Medals_Info</Data></Cell>
+			<Cell><Data ss:Type="String">Silver_Medals_Info</Data></Cell>
+			<Cell><Data ss:Type="String">Bronze_Medals_Info</Data></Cell>
+		</Row>
+
+		<Row>
+			<Cell><Data ss:Type="String">1896 Summer</Data></Cell>
+			<Cell><Data ss:Type="String">Germany - 23</Data></Cell>
+			<Cell><Data ss:Type="String">USA - 7</Data></Cell>
+			<Cell><Data ss:Type="String">Hungary - 3</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">1900 Summer</Data></Cell>
+			<Cell><Data ss:Type="String">UK - 50</Data></Cell>
+			<Cell><Data ss:Type="String">France - 70</Data></Cell>
+			<Cell><Data ss:Type="String">France - 53</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">1904 Summer</Data></Cell>
+			<Cell><Data ss:Type="String">USA - 115</Data></Cell>
+			<Cell><Data ss:Type="String">USA - 119</Data></Cell>
+			<Cell><Data ss:Type="String">USA - 114</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">1906 Summer</Data></Cell>
+			<Cell><Data ss:Type="String">Norway - 20</Data></Cell>
+			<Cell><Data ss:Type="String">UK - 18</Data></Cell>
+			<Cell><Data ss:Type="String">France - 23</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">1908 Summer</Data></Cell>
+			<Cell><Data ss:Type="String">UK - 138</Data></Cell>
+			<Cell><Data ss:Type="String">UK - 102</Data></Cell>
+			<Cell><Data ss:Type="String">UK - 76</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">1912 Summer</Data></Cell>
+			<Cell><Data ss:Type="String">Sweden - 103</Data></Cell>
+			<Cell><Data ss:Type="String">UK - 63</Data></Cell>
+			<Cell><Data ss:Type="String">UK - 59</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">1920 Summer</Data></Cell>
+			<Cell><Data ss:Type="String">USA - 106</Data></Cell>
+			<Cell><Data ss:Type="String">France - 63</Data></Cell>
+			<Cell><Data ss:Type="String">Sweden - 64</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">1924 Summer</Data></Cell>
+			<Cell><Data ss:Type="String">USA - 92</Data></Cell>
+			<Cell><Data ss:Type="String">France - 51</Data></Cell>
+			<Cell><Data ss:Type="String">USA - 48</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">1924 Winter</Data></Cell>
+			<Cell><Data ss:Type="String">UK - 15</Data></Cell>
+			<Cell><Data ss:Type="String">USA - 10</Data></Cell>
+			<Cell><Data ss:Type="String">UK - 11</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">1928 Summer</Data></Cell>
+			<Cell><Data ss:Type="String">USA - 46</Data></Cell>
+			<Cell><Data ss:Type="String">Netherlands - 29</Data></Cell>
+			<Cell><Data ss:Type="String">Germany - 40</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">1928 Winter</Data></Cell>
+			<Cell><Data ss:Type="String">Canada - 12</Data></Cell>
+			<Cell><Data ss:Type="String">Sweden - 13</Data></Cell>
+			<Cell><Data ss:Type="String">Switzerland - 12</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">1932 Summer</Data></Cell>
+			<Cell><Data ss:Type="String">USA - 75</Data></Cell>
+			<Cell><Data ss:Type="String">USA - 45</Data></Cell>
+			<Cell><Data ss:Type="String">USA - 57</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">1932 Winter</Data></Cell>
+			<Cell><Data ss:Type="String">Canada - 14</Data></Cell>
+			<Cell><Data ss:Type="String">USA - 19</Data></Cell>
+			<Cell><Data ss:Type="String">Germany - 14</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">1936 Summer</Data></Cell>
+			<Cell><Data ss:Type="String">Germany - 92</Data></Cell>
+			<Cell><Data ss:Type="String">Germany - 70</Data></Cell>
+			<Cell><Data ss:Type="String">Germany - 61</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">1936 Winter</Data></Cell>
+			<Cell><Data ss:Type="String">UK - 12</Data></Cell>
+			<Cell><Data ss:Type="String">Canada - 13</Data></Cell>
+			<Cell><Data ss:Type="String">USA - 11</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">1948 Summer</Data></Cell>
+			<Cell><Data ss:Type="String">USA - 80</Data></Cell>
+			<Cell><Data ss:Type="String">UK - 42</Data></Cell>
+			<Cell><Data ss:Type="String">USA - 32</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">1948 Winter</Data></Cell>
+			<Cell><Data ss:Type="String">Canada - 13</Data></Cell>
+			<Cell><Data ss:Type="String">Czech Republic - 17</Data></Cell>
+			<Cell><Data ss:Type="String">Switzerland - 19</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">1952 Summer</Data></Cell>
+			<Cell><Data ss:Type="String">USA - 76</Data></Cell>
+			<Cell><Data ss:Type="String">Russia - 62</Data></Cell>
+			<Cell><Data ss:Type="String">Hungary - 32</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">1952 Winter</Data></Cell>
+			<Cell><Data ss:Type="String">Canada - 16</Data></Cell>
+			<Cell><Data ss:Type="String">USA - 22</Data></Cell>
+			<Cell><Data ss:Type="String">Sweden - 23</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">1956 Summer</Data></Cell>
+			<Cell><Data ss:Type="String">Russia - 68</Data></Cell>
+			<Cell><Data ss:Type="String">Russia - 46</Data></Cell>
+			<Cell><Data ss:Type="String">Russia - 55</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">1956 Winter</Data></Cell>
+			<Cell><Data ss:Type="String">Russia - 26</Data></Cell>
+			<Cell><Data ss:Type="String">USA - 18</Data></Cell>
+			<Cell><Data ss:Type="String">Canada - 18</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">1960 Summer</Data></Cell>
+			<Cell><Data ss:Type="String">USA - 74</Data></Cell>
+			<Cell><Data ss:Type="String">Russia - 63</Data></Cell>
+			<Cell><Data ss:Type="String">Russia - 45</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">1960 Winter</Data></Cell>
+			<Cell><Data ss:Type="String">USA - 16</Data></Cell>
+			<Cell><Data ss:Type="String">Canada - 17</Data></Cell>
+			<Cell><Data ss:Type="String">Russia - 28</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">1964 Summer</Data></Cell>
+			<Cell><Data ss:Type="String">USA - 89</Data></Cell>
+			<Cell><Data ss:Type="String">Russia - 63</Data></Cell>
+			<Cell><Data ss:Type="String">Russia - 51</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">1964 Winter</Data></Cell>
+			<Cell><Data ss:Type="String">Russia - 30</Data></Cell>
+			<Cell><Data ss:Type="String">Sweden - 21</Data></Cell>
+			<Cell><Data ss:Type="String">Czech Republic - 17</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">1968 Summer</Data></Cell>
+			<Cell><Data ss:Type="String">USA - 93</Data></Cell>
+			<Cell><Data ss:Type="String">Russia - 63</Data></Cell>
+			<Cell><Data ss:Type="String">Russia - 64</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">1968 Winter</Data></Cell>
+			<Cell><Data ss:Type="String">Russia - 26</Data></Cell>
+			<Cell><Data ss:Type="String">Czech Republic - 19</Data></Cell>
+			<Cell><Data ss:Type="String">Canada - 17</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">1972 Summer</Data></Cell>
+			<Cell><Data ss:Type="String">Russia - 107</Data></Cell>
+			<Cell><Data ss:Type="String">Germany - 83</Data></Cell>
+			<Cell><Data ss:Type="String">Germany - 96</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">1972 Winter</Data></Cell>
+			<Cell><Data ss:Type="String">Russia - 36</Data></Cell>
+			<Cell><Data ss:Type="String">USA - 17</Data></Cell>
+			<Cell><Data ss:Type="String">Czech Republic - 19</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">1976 Summer</Data></Cell>
+			<Cell><Data ss:Type="String">Germany - 123</Data></Cell>
+			<Cell><Data ss:Type="String">Russia - 95</Data></Cell>
+			<Cell><Data ss:Type="String">Russia - 77</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">1976 Winter</Data></Cell>
+			<Cell><Data ss:Type="String">Russia - 38</Data></Cell>
+			<Cell><Data ss:Type="String">Czech Republic - 19</Data></Cell>
+			<Cell><Data ss:Type="String">Germany - 37</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">1980 Summer</Data></Cell>
+			<Cell><Data ss:Type="String">Russia - 187</Data></Cell>
+			<Cell><Data ss:Type="String">Russia - 129</Data></Cell>
+			<Cell><Data ss:Type="String">Russia - 126</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">1980 Winter</Data></Cell>
+			<Cell><Data ss:Type="String">USA - 24</Data></Cell>
+			<Cell><Data ss:Type="String">Russia - 29</Data></Cell>
+			<Cell><Data ss:Type="String">Sweden - 20</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">1984 Summer</Data></Cell>
+			<Cell><Data ss:Type="String">USA - 177</Data></Cell>
+			<Cell><Data ss:Type="String">USA - 112</Data></Cell>
+			<Cell><Data ss:Type="String">Germany - 53</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">1984 Winter</Data></Cell>
+			<Cell><Data ss:Type="String">Russia - 29</Data></Cell>
+			<Cell><Data ss:Type="String">Czech Republic - 24</Data></Cell>
+			<Cell><Data ss:Type="String">Sweden - 21</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">1988 Summer</Data></Cell>
+			<Cell><Data ss:Type="String">Russia - 134</Data></Cell>
+			<Cell><Data ss:Type="String">Germany - 91</Data></Cell>
+			<Cell><Data ss:Type="String">Russia - 99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">1988 Winter</Data></Cell>
+			<Cell><Data ss:Type="String">Russia - 39</Data></Cell>
+			<Cell><Data ss:Type="String">Germany - 22</Data></Cell>
+			<Cell><Data ss:Type="String">Sweden - 23</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">1992 Summer</Data></Cell>
+			<Cell><Data ss:Type="String">Russia - 92</Data></Cell>
+			<Cell><Data ss:Type="String">Russia - 61</Data></Cell>
+			<Cell><Data ss:Type="String">USA - 83</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">1992 Winter</Data></Cell>
+			<Cell><Data ss:Type="String">Russia - 35</Data></Cell>
+			<Cell><Data ss:Type="String">Canada - 28</Data></Cell>
+			<Cell><Data ss:Type="String">Czech Republic - 27</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">1994 Winter</Data></Cell>
+			<Cell><Data ss:Type="String">Sweden - 23</Data></Cell>
+			<Cell><Data ss:Type="String">Canada - 29</Data></Cell>
+			<Cell><Data ss:Type="String">Finland - 29</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">1996 Summer</Data></Cell>
+			<Cell><Data ss:Type="String">USA - 152</Data></Cell>
+			<Cell><Data ss:Type="String">China - 70</Data></Cell>
+			<Cell><Data ss:Type="String">Australia - 84</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">1998 Winter</Data></Cell>
+			<Cell><Data ss:Type="String">USA - 25</Data></Cell>
+			<Cell><Data ss:Type="String">Russia - 32</Data></Cell>
+			<Cell><Data ss:Type="String">Finland - 49</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2000 Summer</Data></Cell>
+			<Cell><Data ss:Type="String">USA - 130</Data></Cell>
+			<Cell><Data ss:Type="String">Australia - 69</Data></Cell>
+			<Cell><Data ss:Type="String">Germany - 64</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2002 Winter</Data></Cell>
+			<Cell><Data ss:Type="String">Canada - 52</Data></Cell>
+			<Cell><Data ss:Type="String">USA - 57</Data></Cell>
+			<Cell><Data ss:Type="String">Russia - 27</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2004 Summer</Data></Cell>
+			<Cell><Data ss:Type="String">USA - 116</Data></Cell>
+			<Cell><Data ss:Type="String">Australia - 77</Data></Cell>
+			<Cell><Data ss:Type="String">Russia - 95</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2006 Winter</Data></Cell>
+			<Cell><Data ss:Type="String">Sweden - 35</Data></Cell>
+			<Cell><Data ss:Type="String">Finland - 34</Data></Cell>
+			<Cell><Data ss:Type="String">USA - 32</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2008 Summer</Data></Cell>
+			<Cell><Data ss:Type="String">USA - 127</Data></Cell>
+			<Cell><Data ss:Type="String">USA - 110</Data></Cell>
+			<Cell><Data ss:Type="String">USA - 80</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2010 Winter</Data></Cell>
+			<Cell><Data ss:Type="String">Canada - 67</Data></Cell>
+			<Cell><Data ss:Type="String">USA - 59</Data></Cell>
+			<Cell><Data ss:Type="String">Finland - 46</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2012 Summer</Data></Cell>
+			<Cell><Data ss:Type="String">USA - 145</Data></Cell>
+			<Cell><Data ss:Type="String">USA - 56</Data></Cell>
+			<Cell><Data ss:Type="String">Australia - 59</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2014 Winter</Data></Cell>
+			<Cell><Data ss:Type="String">Canada - 59</Data></Cell>
+			<Cell><Data ss:Type="String">Sweden - 32</Data></Cell>
+			<Cell><Data ss:Type="String">Finland - 24</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">2016 Summer</Data></Cell>
+			<Cell><Data ss:Type="String">USA - 138</Data></Cell>
+			<Cell><Data ss:Type="String">UK - 55</Data></Cell>
+			<Cell><Data ss:Type="String">USA - 71</Data></Cell>
+		</Row>	</Table>
+</Worksheet>
+</Workbook>

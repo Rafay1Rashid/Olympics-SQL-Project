@@ -1,0 +1,406 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2709
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\froman\fcharset0 Times-Bold;\f1\froman\fcharset0 Times-Roman;\f2\fmodern\fcharset0 Courier;
+}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+{\*\expandedcolortbl;;\cssrgb\c0\c0\c0;}
+{\*\listtable{\list\listtemplateid1\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{decimal\}}{\leveltext\leveltemplateid1\'01\'00;}{\levelnumbers\'01;}\fi-360\li720\lin720 }{\listname ;}\listid1}
+{\list\listtemplateid2\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{decimal\}}{\leveltext\leveltemplateid101\'01\'00;}{\levelnumbers\'01;}\fi-360\li720\lin720 }{\listname ;}\listid2}
+{\list\listtemplateid3\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{decimal\}}{\leveltext\leveltemplateid201\'01\'00;}{\levelnumbers\'01;}\fi-360\li720\lin720 }{\listname ;}\listid3}}
+{\*\listoverridetable{\listoverride\listid1\listoverridecount0\ls1}{\listoverride\listid2\listoverridecount0\ls2}{\listoverride\listid3\listoverridecount0\ls3}}
+\paperw11900\paperh16840\margl1440\margr1440\vieww11520\viewh8400\viewkind0
+\deftab720
+\pard\pardeftab720\sa321\partightenfactor0
+
+\f0\b\fs48 \cf0 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Olympics Data Analysis\
+-- Project: Olympics Data Analysis\
+-- Author: Syed Abdul Rafay Rashid\
+-- Date: 2025-01-30\
+\pard\pardeftab720\sa298\partightenfactor0
+
+\fs36 \cf0 Introduction\
+\pard\pardeftab720\sa240\partightenfactor0
+
+\f1\b0\fs24 \cf0 This project, 
+\f0\b Olympics Data Analysis
+\f1\b0 , explores the rich dataset of the Olympic Games to uncover trends, insights, and metrics of interest. The dataset includes detailed information about athletes, the sports they participated in, the events held, and the medals won. This project is an SQL-based exploratory analysis aimed at deriving meaningful statistics and answering key questions related to the Olympics.\
+\pard\pardeftab720\partightenfactor0
+\cf0 \
+\pard\pardeftab720\sa298\partightenfactor0
+
+\f0\b\fs36 \cf0 Scope of the Project\
+\pard\pardeftab720\sa240\partightenfactor0
+
+\f1\b0\fs24 \cf0 This project serves as a comprehensive analysis of the Olympics dataset, focusing on historical trends, nation-specific performances, athlete achievements, and sport-specific data. The queries address:\
+\pard\tx220\tx720\pardeftab720\li720\fi-720\sa240\partightenfactor0
+\ls1\ilvl0\cf0 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	1	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Historical records of the games.\
+\ls1\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	2	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Participation trends by nations and athletes.\
+\ls1\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	3	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Medal counts and distribution.\
+\ls1\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	4	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Identification of standout athletes, sports, and nations.\
+\ls1\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	5	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Gender participation and comparisons.\
+\ls1\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	6	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Unique records like the oldest athlete to win gold and sports played only once.\
+\pard\pardeftab720\sa240\partightenfactor0
+\cf0 The project can be further extended to include visualisations and dashboards for a more interactive representation of the results.\
+\pard\pardeftab720\partightenfactor0
+\cf0 \
+\pard\pardeftab720\sa298\partightenfactor0
+
+\f0\b\fs36 \cf0 Queries Explanation\
+\pard\pardeftab720\sa280\partightenfactor0
+
+\fs28 \cf0 1. How many Olympic Games have been held?\
+\pard\pardeftab720\sa240\partightenfactor0
+
+\f1\b0\fs24 \cf0 This query calculates the total number of distinct Olympic years to determine how many games have taken place historically.\
+\pard\pardeftab720\sa280\partightenfactor0
+
+\f0\b\fs28 \cf0 2. List of all Olympic Games held so far\
+\pard\pardeftab720\sa240\partightenfactor0
+
+\f1\b0\fs24 \cf0 This query retrieves the year, season, and host city for each distinct Olympic event. The results are ordered chronologically.\
+\pard\pardeftab720\sa280\partightenfactor0
+
+\f0\b\fs28 \cf0 3. Total number of nations that participated in each Olympic Games\
+\pard\pardeftab720\sa240\partightenfactor0
+
+\f1\b0\fs24 \cf0 The query counts the distinct National Olympic Committees (NOCs) for each Olympic event, grouped by games.\
+\pard\pardeftab720\sa280\partightenfactor0
+
+\f0\b\fs28 \cf0 4. Highest and Lowest Number of Participating Nations\
+\pard\pardeftab720\sa240\partightenfactor0
+
+\f1\b0\fs24 \cf0 Using Common Table Expressions (CTEs), this query identifies the games with the maximum and minimum number of participating nations.\
+\pard\pardeftab720\sa280\partightenfactor0
+
+\f0\b\fs28 \cf0 5. Nations Participating in All Olympic Games\
+\pard\pardeftab720\sa240\partightenfactor0
+
+\f1\b0\fs24 \cf0 This query determines which nations have participated in every Olympic event by comparing the total games count with each nation's participation count.\
+\pard\pardeftab720\sa280\partightenfactor0
+
+\f0\b\fs28 \cf0 6. Sports Played in All Summer Olympics\
+\pard\pardeftab720\sa240\partightenfactor0
+
+\f1\b0\fs24 \cf0 This query identifies the sports that were consistently played in all Summer Olympic Games.\
+\pard\pardeftab720\sa280\partightenfactor0
+
+\f0\b\fs28 \cf0 7. Sports Played Only Once in the Olympics\
+\pard\pardeftab720\sa240\partightenfactor0
+
+\f1\b0\fs24 \cf0 The query identifies sports that appeared in the Olympics only once by counting their unique occurrences.\
+\pard\pardeftab720\sa280\partightenfactor0
+
+\f0\b\fs28 \cf0 8. Total Sports Played in Each Olympic Games\
+\pard\pardeftab720\sa240\partightenfactor0
+
+\f1\b0\fs24 \cf0 This query calculates the number of distinct sports played in each Olympic event, grouped by games.\
+\pard\pardeftab720\sa280\partightenfactor0
+
+\f0\b\fs28 \cf0 9. Oldest Athlete to Win a Gold Medal\
+\pard\pardeftab720\sa240\partightenfactor0
+
+\f1\b0\fs24 \cf0 This query identifies the oldest athlete to have won a gold medal by comparing the ages of gold medal winners.\
+\pard\pardeftab720\sa280\partightenfactor0
+
+\f0\b\fs28 \cf0 10. Male-to-Female Athlete Ratio\
+\pard\pardeftab720\sa240\partightenfactor0
+
+\f1\b0\fs24 \cf0 Using a combination of CTEs, this query calculates the ratio of male to female athletes who participated across all Olympic events.\
+\pard\pardeftab720\sa280\partightenfactor0
+
+\f0\b\fs28 \cf0 11. Top 5 Athletes with the Most Gold Medals\
+\pard\pardeftab720\sa240\partightenfactor0
+
+\f1\b0\fs24 \cf0 This query uses 
+\f2\fs26 DENSE_RANK
+\f1\fs24  to rank athletes based on the number of gold medals won, listing the top five athletes.\
+\pard\pardeftab720\sa280\partightenfactor0
+
+\f0\b\fs28 \cf0 12. Top 5 Athletes with the Most Medals\
+\pard\pardeftab720\sa240\partightenfactor0
+
+\f1\b0\fs24 \cf0 Similar to query #11, this query ranks athletes based on their total medal count (gold, silver, and bronze).\
+\pard\pardeftab720\sa280\partightenfactor0
+
+\f0\b\fs28 \cf0 13. Top 5 Most Successful Countries\
+\pard\pardeftab720\sa240\partightenfactor0
+
+\f1\b0\fs24 \cf0 The success of a country is determined by the total number of medals won. This query ranks and lists the top five countries.\
+\pard\pardeftab720\sa280\partightenfactor0
+
+\f0\b\fs28 \cf0 14. Total Medals Won by Each Country\
+\pard\pardeftab720\sa240\partightenfactor0
+
+\f1\b0\fs24 \cf0 This query calculates the total number of gold, silver, and bronze medals won by each country.\
+\pard\pardeftab720\sa280\partightenfactor0
+
+\f0\b\fs28 \cf0 15. Total Medals by Each Country in Each Olympic Games\
+\pard\pardeftab720\sa240\partightenfactor0
+
+\f1\b0\fs24 \cf0 This query extends query #14 by adding a breakdown of medals by country for each Olympic event.\
+\pard\pardeftab720\sa280\partightenfactor0
+
+\f0\b\fs28 \cf0 16. Most Medals by Type in Each Olympic Games\
+\pard\pardeftab720\sa240\partightenfactor0
+
+\f1\b0\fs24 \cf0 This query uses 
+\f2\fs26 RANK()
+\f1\fs24  to determine which country won the most gold, silver, and bronze medals in each Olympic event. The results include details for all three medal types.\
+\
+
+\f0\b\fs36 Queries and Solutions:
+\fs24 \
+-- 1- How many olympics games have been held?\
+\
+select count(distinct year)\
+from athlete_events;\
+\
+\
+-- 2- List down all Olympics games held so far?\
+select distinct year, season, city\
+from athlete_events\
+order by year;\
+\
+-- 3- Mention the total no of nations who participated in each olympics game?\
+select Games, count(distinct(NOC))\
+from athlete_events\
+group by 1;\
+\
+-- 4- Which year saw the highest and lowest no of countries participating in olympics\
+With highest as (select Games, count(distinct(NOC)) as highest_countries\
+from athlete_events\
+group by 1\
+order by 2 desc\
+limit 1),\
+\
+lowest as ( select Games, count(distinct(NOC)) as lowest_countries\
+from athlete_events\
+group by 1\
+order by 2 \
+limit 1)\
+\
+select concat(l.Games, ' ', '-', ' ', l.Lowest_countries), concat(h.Games, ' ', '-', ' ', h.highest_countries)\
+from highest h;\
+\
+-- 5- Which nation has participated in all of the olympic games\
+SELECT \
+    a.NOC, COUNT(DISTINCT (a.Games)), n.region\
+FROM\
+    athlete_events a\
+        JOIN\
+    noc_regions n ON n.NOC = a.NOC\
+GROUP BY 1 , 3\
+HAVING COUNT(DISTINCT (Games)) = (SELECT \
+        COUNT(DISTINCT (Games))\
+    FROM\
+        athlete_events);\
+        \
+\
+-- 6- Identify the sport which was played in all summer olympics.\
+select sport, count(*)\
+from \
+(select distinct games, sport\
+from athlete_events\
+where Season = 'Summer'\
+order by 1) as abc\
+group by 1\
+having count(*) = (select count(distinct year)\
+					from athlete_events\
+                    where Season = 'Summer');\
+                    \
+\
+-- 7- Which Sports were just played only once in the olympics.\
+SELECT \
+    x.sport, x.played_once, a.Games\
+FROM\
+    athlete_events a\
+        JOIN\
+    (SELECT \
+        sport, COUNT(*) AS played_once\
+    FROM\
+        (SELECT DISTINCT\
+        games, sport\
+    FROM\
+        athlete_events\
+    ORDER BY 1) AS abc\
+    GROUP BY 1\
+    HAVING COUNT(*) = 1) x ON x.sport = a.sport;\
+    \
+\
+-- 8- Fetch the total no of sports played in each olympic games.\
+select Games, count(*) as total_sports\
+from (\
+select distinct Games, sport\
+from athlete_events\
+order by 1\
+) as abc\
+group by 1;\
+\
+\
+-- 9- Fetch oldest athletes to win a gold medal\
+SELECT \
+    *\
+FROM\
+    athlete_events\
+WHERE\
+    medal = 'Gold'\
+        AND Age = (SELECT \
+            MAX(Age)\
+        FROM\
+            athlete_events\
+        WHERE\
+            medal = 'Gold');\
+            \
+-- 10- Find the Ratio of male and female athletes participated in all olympic games.\
+with male as (select count(distinct(ID)) AS MA\
+FROM athlete_events\
+where Sex = 'M'),\
+female as (select count(distinct(ID)) AS FA\
+FROM athlete_events\
+where Sex = 'F')\
+\
+select concat(round((MA/MA),0), ':', ROUND((MA/FA),2)) as ratio\
+FROM male\
+join female;\
+\
+-- 11- Fetch the top 5 athletes who have won the most gold medals.\
+WITH RankedData AS (\
+  SELECT a.Name, n.region, COUNT(*) AS NOGM,\
+         DENSE_RANK() OVER (ORDER BY COUNT(*) DESC) AS rnk\
+  FROM athlete_events a\
+  JOIN noc_regions n ON a.NOC = n.NOC\
+  WHERE a.medal = 'Gold'\
+  GROUP BY a.Name, n.region\
+)\
+\
+SELECT Name, region, NOGM\
+FROM RankedData\
+WHERE rnk <= 5;\
+\
+-- 12- Fetch the top 5 athletes who have won the most medals (gold/silver/bronze).\
+WITH RankedData AS (\
+  SELECT a.Name, n.region, COUNT(*) AS NOGM,\
+         DENSE_RANK() OVER (ORDER BY COUNT(*) DESC) AS rnk\
+  FROM athlete_events a\
+  JOIN noc_regions n ON a.NOC = n.NOC\
+  WHERE a.medal != 'NA'\
+  GROUP BY a.Name, n.region\
+)\
+\
+SELECT Name, region, NOGM\
+FROM RankedData\
+WHERE rnk <= 5;\
+\
+-- 13- Fetch the top 5 most successful countries in olympics. Success is defined by no of medals won.\
+WITH RankedData AS (\
+  SELECT n.region, COUNT(*) AS NOGM,\
+         DENSE_RANK() OVER (ORDER BY COUNT(*) DESC) AS rnk\
+  FROM athlete_events a\
+  JOIN noc_regions n ON a.NOC = n.NOC\
+  WHERE a.medal != 'NA'\
+  GROUP BY n.region\
+)\
+\
+SELECT region, NOGM\
+FROM RankedData\
+WHERE rnk <= 5;\
+\
+--  14- List down total gold, silver and bronze medals won by each country.\
+SELECT n.region, \
+       SUM(CASE WHEN a.medal = 'Gold' THEN 1 ELSE 0 END) AS NOGM,  \
+       SUM(CASE WHEN a.medal = 'Silver' THEN 1 ELSE 0 END) AS NOSM,  \
+       SUM(CASE WHEN a.medal = 'Bronze' THEN 1 ELSE 0 END) AS NOBM  \
+FROM athlete_events a\
+join noc_regions n\
+on a.NOC = n.NOC\
+WHERE a.medal IS NOT NULL  \
+GROUP BY 1\
+order by 2 desc;\
+\
+-- 15- List down total gold, silver and bronze medals won by each country corresponding to each olympic games.\
+SELECT a.Games, n.region, \
+       SUM(CASE WHEN a.Medal = 'Gold' THEN 1 ELSE 0 END) AS Gold_Medals,\
+       SUM(CASE WHEN a.Medal = 'Silver' THEN 1 ELSE 0 END) AS Silver_Medals,\
+       SUM(CASE WHEN a.Medal = 'Bronze' THEN 1 ELSE 0 END) AS Bronze_Medals\
+FROM athlete_events a\
+JOIN noc_regions n ON a.NOC = n.NOC  \
+WHERE a.Medal IS NOT NULL  \
+GROUP BY a.Games, n.region\
+ORDER BY a.Games, n.region;\
+\
+-- 16- Identify which country won the most gold, most silver and most bronze medals in each olympic games.\
+WITH MedalCounts AS (\
+    SELECT a.Games, n.region, \
+           SUM(CASE WHEN a.Medal = 'Gold' THEN 1 ELSE 0 END) AS Gold_Medals,\
+           SUM(CASE WHEN a.Medal = 'Silver' THEN 1 ELSE 0 END) AS Silver_Medals,\
+           SUM(CASE WHEN a.Medal = 'Bronze' THEN 1 ELSE 0 END) AS Bronze_Medals\
+    FROM athlete_events a\
+    JOIN noc_regions n ON a.NOC = n.NOC  \
+    WHERE a.Medal IS NOT NULL  \
+    GROUP BY a.Games, n.region\
+),\
+\
+RankedMedals AS (\
+    SELECT Games, region, \
+           Gold_Medals,\
+           Silver_Medals,\
+           Bronze_Medals,\
+           RANK() OVER (PARTITION BY Games ORDER BY Gold_Medals DESC) AS Gold_Rank,\
+           RANK() OVER (PARTITION BY Games ORDER BY Silver_Medals DESC) AS Silver_Rank,\
+           RANK() OVER (PARTITION BY Games ORDER BY Bronze_Medals DESC) AS Bronze_Rank\
+    FROM MedalCounts\
+)\
+\
+SELECT Games, \
+       CONCAT(MAX(CASE WHEN Gold_Rank = 1 THEN region END), ' - ', MAX(CASE WHEN Gold_Rank = 1 THEN Gold_Medals END)) AS Gold_Medals_Info,\
+       CONCAT(MAX(CASE WHEN Silver_Rank = 1 THEN region END), ' - ', MAX(CASE WHEN Silver_Rank = 1 THEN Silver_Medals END)) AS Silver_Medals_Info,\
+       CONCAT(MAX(CASE WHEN Bronze_Rank = 1 THEN region END), ' - ', MAX(CASE WHEN Bronze_Rank = 1 THEN Bronze_Medals END)) AS Bronze_Medals_Info\
+FROM RankedMedals\
+GROUP BY Games\
+ORDER BY Games;\
+\
+\pard\pardeftab720\sa298\partightenfactor0
+
+\fs36 \cf0 Conclusion\
+\pard\pardeftab720\sa240\partightenfactor0
+
+\f1\b0\fs24 \cf0 This project offers a detailed exploration of the Olympics dataset and provides insights into the history and trends of the Olympic Games. By analysing participation, achievements, and standout records, this project helps highlight the evolution of the Olympics over time. The queries are modular, allowing for additional analysis and integration with visualisation tools for richer storytelling. Future work could include:\
+\pard\tx220\tx720\pardeftab720\li720\fi-720\sa240\partightenfactor0
+\ls2\ilvl0\cf0 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	1	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Interactive dashboards using tools like Tableau or Power BI.\
+\ls2\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	2	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Advanced analytics such as predictive modelling for medal forecasts.\
+\ls2\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	3	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Deeper insights into athlete performance by incorporating external datasets.\
+\pard\pardeftab720\partightenfactor0
+\cf0 \strokec2 \
+\pard\pardeftab720\sa298\partightenfactor0
+
+\f0\b\fs36 \cf0 How to Use\
+\pard\tx220\tx720\pardeftab720\li720\fi-720\sa240\partightenfactor0
+\ls3\ilvl0
+\f1\b0\fs24 \cf0 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	1	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Clone this repository.\
+\ls3\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	2	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Import the 
+\f2\fs26 athlete_events
+\f1\fs24  and 
+\f2\fs26 noc_regions
+\f1\fs24  tables into your SQL environment.\
+\ls3\ilvl0\kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	3	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 Execute the queries in the provided order to replicate the analysis.\
+\pard\pardeftab720\partightenfactor0
+\cf0 \strokec2 \
+\pard\pardeftab720\sa240\partightenfactor0
+\cf0 \
+\
+\pard\pardeftab720\partightenfactor0
+\cf0 \
+\
+}
